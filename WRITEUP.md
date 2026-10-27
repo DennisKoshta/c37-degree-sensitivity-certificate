@@ -198,7 +198,7 @@ AI agent instance. **No human has checked the proof, the code or this note.**
 - [P21] N. V. Proskurin, On separation between the degree of a Boolean function and the block sensitivity,
   arXiv:2101.08600 (2021), §5 and Theorem 11.
 - [W22] J. Wellens, Relationships between the number of inputs and other complexity measures of Boolean functions,
-  *Discrete Analysis* 2022:19; arXiv:2005.00566 (2020), Table 1 and Fact 3.11.
+  *Discrete Analysis* 2022:20; arXiv:2005.00566 (2020), Table 1 and Fact 3.11.
 - [MMST] S. Maitra, C. S. Mukherjee, P. Stănică, D. Tang, On Boolean functions with low polynomial degree and higher
   order sensitivity, arXiv:2107.11205 (2021); *Discrete Appl. Math.* 365 (2025) 138–159.
 - [Bal21] K. Balodis, Several separations based on a partial Boolean function, arXiv:2103.05593 (2021).
