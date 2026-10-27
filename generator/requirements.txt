@@ -1,0 +1,4 @@
+# only for regenerating the (10,4) certificate; checking needs none of these
+numpy==2.5.4
+scipy==1.18.1
+highspy==1.15.1
